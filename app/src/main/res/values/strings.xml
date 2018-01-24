@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FloatWindowDemo</string>
+    <string name="anim_a">透明</string>
+</resources>
